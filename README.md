@@ -43,8 +43,8 @@ Each project in this repo is **self-contained** and teaches one model from scrat
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/ml-models-from-scratch.git
-cd ml-models-from-scratch
+git clone https://github.com/Sulagn/Machine-Learning.git
+cd Machine-Learning
 ```
 
 ### 2. Create a virtual environment (recommended)
