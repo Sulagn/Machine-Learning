@@ -75,7 +75,7 @@ tensorflow        # only for Neural Network project
 
 ### 4. Run any project
 ```bash
-python supervised/linear_regression_house_prices.py
+python supervised/House Prediction.py
 ```
 
 ---
